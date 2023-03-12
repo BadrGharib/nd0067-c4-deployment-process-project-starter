@@ -1,0 +1,5 @@
+api url:
+http://udagram-api-dev2222222222.us-east-1.elasticbeanstalk.com/api/v0/feed
+
+frontend url:
+http://udagram-badr.s3-website-us-east-1.amazonaws.com
